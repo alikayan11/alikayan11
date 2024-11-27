@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=kodlama%20dilleri%20ile%20ilgili%20g%C3%B6rsel&imgurl=https%3A%2F%2Fwww.hypernet.com.tr%2Fdimg%2Ficerik%2F293732243425900284632.png&imgrefurl=https%3A%2F%2Fwww.hypernet.com.tr%2Fblog-en-populer-programlama-dilleri-55&docid=n8TXZvBP65RSeM&tbnid=ToDqLZkuAJo8GM&vet=12ahUKEwir8vaTxv2JAxUyBdsEHS0mC2MQM3oECBUQAA..i&w=800&h=450&hcb=2&ved=2ahUKEwir8vaTxv2JAxUyBdsEHS0mC2MQM3oECBUQAA)
+[![MasterHead](https://www.hypernet.com.tr/dimg/icerik/293732243425900284632.png)
 <h1 align="center">Hi 👋, I'm Ali Kayan</h1>
 <h3 align="center">A software engineer in Turkey</h3>
 
